@@ -24,7 +24,7 @@ Foi proposto recriar o seguinte site, fazendo o mais semelhante possível, a par
 
 ## Demo da minha solução:
 
-- [Solução do QR code component solution]([link_desafio_git_page](https://brunosilvafaria.github.io/qr-code-component-main/)).
+- [Solução do QR code component solution](https://brunosilvafaria.github.io/qr-code-component-main/)
 
 ## Processo de desenvolvimento:
 - Definir a Estrutura HTML;
