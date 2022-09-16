@@ -4,9 +4,9 @@ Esta é a minha solução para o desafio [QR code component challenge on Fronten
 ## Contéudo
 
 - [Desafio](#desafio)
-    - [Screenshot](#screenshot)
+    - [Solução](#screenshot)
     - [Demo](#demo)
-- [Meu processo](#meu-processo)
+- [Processo de Desenvolvimento](#meu-processo)
     - [Ferramentas](#ferramentas)
     - [O que eu aprendi](#o-que-eu-aprendi)
 - [Referencias](#referencia)
@@ -17,12 +17,12 @@ Foi proposto recriar o seguinte site, fazendo o mais semelhante possível, a par
 
 ![](./design/desktop-design.jpg)
 
-## Screenshot da minha solução:
+## Solução:
 
 ![](./design/solucao-desktop.png)
 
 
-## Demo da minha solução:
+## Demo:
 
 - [Solução do QR code component solution](https://brunosilvafaria.github.io/qr-code-component-main/)
 
