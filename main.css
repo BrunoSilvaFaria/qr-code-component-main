@@ -1,5 +1,5 @@
 /* === RESET === */
-*{
+* {
   background: none;
   border: none;
   box-sizing: border-box;
@@ -9,28 +9,29 @@
 }
 
 /* === Body === */
-body{
+.body {
   /* --- estilos --- */
   background: hsl(212, 45%, 89%);
   /* --- display --- */
-  display: flex;
   align-items: center;
+  display: flex;
   justify-content: center;
   /* --- tamanho --- */
   min-height: 100vh;
 }
+
 /* === MAIN === */
-main{
+.main {
   /* --- estilos --- */
   background: #fff;
   border-radius: 20px;
-  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
   /* --- tamanho --- */
   height: 500px;
   width: 320px;
 }
 
-.alinhamento__main{
+.alinhamento__main {
   /* --- display --- */
   margin: auto;
   /* --- tamanho --- */
@@ -38,39 +39,41 @@ main{
 }
 
 /* === IMG === */
-.img__conteiner{
+.img__conteiner {
   /* --- display ---  */
   margin: 15px auto;
   /* --- tamanho --- */
   width: 290px;
 }
-img{
+
+.img__item {
   /* --- estilos --- */
   border-radius: 15px;
   /* --- tamanho --- */
-  height: 290px;
+  height: 280px;
   width: 100%;
 }
 
-/* === Tipografia === */
-.text__conteiner{
+/* === Section Text === */
+.section__text {
   /* --- tipografia --- */
   text-align: center;
   /* --- display --- */
   display: inline-block;
-  margin: auto;
-  margin-top: 5px;
+  margin: 5px auto auto auto;
   /* --- tamanho --- */
   width: 290px;
 }
-.title{
+
+.section__title {
   /* --- tipografia --- */
   color: hsl(218, 44%, 22%);
   font-size: 1.5em;
   /* --- display --- */
   margin-bottom: 15px;
 }
-.paragraph{
+
+.section__paragraph {
   color: hsl(220, 15%, 55%);
   font-size: 1.1em;
 }
